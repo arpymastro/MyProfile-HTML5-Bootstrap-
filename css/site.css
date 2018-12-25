@@ -1,0 +1,28 @@
+body{
+    background-color:#DCDCDC;
+    position: relative; 
+}
+
+#skills, #projects {
+    margin-top:120px;
+}
+
+.profile-photo{
+    margin-top:20px;
+    margin-right:40px;
+}
+
+.profile-photo img{
+    box-shadow:0 1px 6px rgba(0,0,0,.12),0 1px 4px rgba(0,0,0,.24);
+    width:100%;
+    display:block;
+    border:1px solid #dedede;
+}
+
+.profile-info{
+    margin:15px 0 0;
+    color:#3d4451;
+    padding-bottom:25px;
+    margin-bottom:25px;
+    border-bottom:1px solid #dedede;
+}
