@@ -1,0 +1,28 @@
+HTML 5 Web Storage 
+http://www.w3schools.com/html/html5_webstorage.asp
+
+HTML5 Application cache
+https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache?
+
+HTML5 server side events
+http://www.w3schools.com/html/html5_serversentevents.asp
+http://html5doctor.com/server-sent-events/
+
+HTML5 Web Sockets
+http://www.w3.org/TR/websockets/
+http://www.tutorialspoint.com/html5/html5_websocket.htm
+
+HTML5 Responsive Web Design
+http://msdn.microsoft.com/en-us/magazine/hh653584.aspx
+
+HTML5 Best practices
+http://www.codeproject.com/Tips/666578/HTML-and-Some-CSS-Best-Practice
+http://www.html5rocks.com/en/tutorials/speed/quick/
+
+HTML5 Web Worker
+http://www.w3schools.com/html/html5_webworkers.asp
+http://msdn.microsoft.com/en-us/hh549259.aspx
+http://www.tutorialspoint.com/html5/html5_web_workers.htm
+
+HTML5 Geolocation
+http://www.w3schools.com/html/html5_geolocation.asp
